@@ -7,10 +7,15 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 git clone https://github.com/Ferhat2525/kodluyoruzilkrepo.git
 
 <<<<<<< HEAD
-
->>>>>>> ef2d9be (README eklendi)
+![Github](img/GitHubProjeEkleme.PNG)
 =======
-## Alt Bilgi
-skıfkfpfküfklofgkdfk
-kfdkkfljkkdskfalsdkfj
->>>>>>> 5ad19e4 (readme file changed)
+## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+cd kodluyoruzilkrepo
+
+code .
+=======
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
