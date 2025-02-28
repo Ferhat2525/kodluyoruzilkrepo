@@ -8,7 +8,7 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 git clone https://github.com/Ferhat2525/kodluyoruzilkrepo.git
 
 <<<<<<< HEAD
-![Github](img/GitHubProjeEkleme.PNG)
+![Github](img/GitHubProjeEkleme.png)
 =======
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
