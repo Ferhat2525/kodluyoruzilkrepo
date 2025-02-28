@@ -7,7 +7,6 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 git clone https://github.com/Ferhat2525/kodluyoruzilkrepo.git
 
-<<<<<<< HEAD
 ![Github](img/GitHubProjeEkleme.png)
 =======
 ## Usage
